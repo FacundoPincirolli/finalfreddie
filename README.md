@@ -4,3 +4,4 @@ Soy Facundo Pinirolli estudiante de diseño de image y sonido en la Universidad 
 
 El sitio consta de cinco secciones, las cuales son: Inicio, Biografía, Curriculum, Datos Freddie y Contacto. Para la realización de las secciones Inicio, Biografía, Datos Freddie y Contacto se ha utilizado Bootstrap.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3b73e77b-fa23-47e4-b93d-188bc06ad312/deploy-status)](https://app.netlify.com/sites/finalfreddie/deploys)

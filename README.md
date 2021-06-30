@@ -8,6 +8,5 @@ Se realizó la vinculación de la página 404 mediante el uso de Netlify.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3b73e77b-fa23-47e4-b93d-188bc06ad312/deploy-status)](https://app.netlify.com/sites/finalfreddie/deploys)
 
-![proyecto_integrador](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
 <a href="https://finalfreddie.netlify.app/">Click aquí para ver el sitio</a>

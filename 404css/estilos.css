@@ -1,4 +1,5 @@
 
+
 *{
     margin: 0%;
     padding: 0%;
@@ -238,8 +239,6 @@ html{
     left: 70%;    
     bottom: 45%;
     color: white;
-    border-color: cadetblue;
-    border: cyan;
     width: 13%;
     font-size: 17px;
     animation-name: busca;
@@ -249,5 +248,5 @@ html{
 
 
 .buscador:hover{
-    font-size: 20px;
+    transform: scaleX(1.2) scaleY(1.2)
 }

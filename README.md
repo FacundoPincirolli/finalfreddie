@@ -9,3 +9,6 @@ El sitio consta de cinco secciones, las cuales son: Inicio, Biografía, Curricul
 
 
 <a href="https://finalfreddie.netlify.app/">Click aquí para ver el sitio</a>
+
+
+<a href="https://www.youtube.com/watch?v=tCEzPxJfCBs">Click aquí para ver la presentación del sitio</a>

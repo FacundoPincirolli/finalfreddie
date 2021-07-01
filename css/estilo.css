@@ -230,17 +230,17 @@ body{
 
 .tema:hover{
     color: rgb(156, 30, 30);
-    font-size: 23px;
+    transform: scaleX(1.2) scaleY(1.2);
 }
 
 .temar:hover{
     color: rgb(131, 24, 131);
-    font-size: 23px;
+    transform: scaleX(1.2) scaleY(1.2);
 }
 
 .temaa:hover{
     color: rgb(38, 49, 146);
-    font-size: 23px;
+    transform: scaleX(1.2) scaleY(1.2);
 }
 
 /*animaciones*/
